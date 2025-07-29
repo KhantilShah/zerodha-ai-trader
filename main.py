@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from kite_helper import kite, get_profile
+from kite_helper import get_profile
 
 app = FastAPI()
 
